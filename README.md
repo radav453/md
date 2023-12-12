@@ -1,7 +1,8 @@
 <!--Encabezados -->
 
 # title h1
-<h1 título /h1>
+<h1>título grande</h1>
+<h6>título pequeño</h6>
 ## title h2
 ### title h3
 #### title h4
